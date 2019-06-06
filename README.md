@@ -10,7 +10,7 @@ This repo contains all the code from my series on [YouTube](https://www.youtube.
 
 1.  Signin & Signup UI [![watch](assets/yt.png)](https://www.youtube.com/watch?v=e0hwUUOmnUs)
 
-<!-- 2.  Weather Interface UI [![watch](assets/yt.png)](https://www.youtube.com/watch?v=e0hwUUOmnUs) -->
+2.  Weather Interface UI [![watch](assets/yt.png)](https://www.youtube.com/watch?v=ZQvr3r3J_W0)
 
 
 
