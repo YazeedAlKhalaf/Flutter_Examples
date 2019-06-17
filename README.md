@@ -12,6 +12,7 @@ This repo contains all the code from my series on [YouTube](https://www.youtube.
 
 2.  Weather Interface UI [![watch](assets/yt.png)](https://www.youtube.com/watch?v=ZQvr3r3J_W0)
 
+2.  Calculator App (IOS Replica) [![watch](assets/yt.png)](https://www.youtube.com/watch?v=seXyW4t69Is)
 
 
 
