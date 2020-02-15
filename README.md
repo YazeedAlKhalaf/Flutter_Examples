@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/YazeedAlKhalaf/Flutter_UI?label=LICENSE)
+
 ![Image](assets/fe.png)
 
 # Flutter UI
