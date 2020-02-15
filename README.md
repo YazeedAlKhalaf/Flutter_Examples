@@ -1,18 +1,30 @@
 ![Image](assets/fe.png)
 
 # Flutter UI
+UIs made using [Flutter](https://flutter.dev)
 
-This repo contains all the code from my series on [YouTube](https://www.youtube.com/playlist?list=PLBkbvSc-Fwl9d15l47fTjh2NkmZZzBOOp)
+## How to use?
+You can clone this repo or download it as a zip, whichever you prefer.
+This repo contains multiple flutter apps so after downnloading you could copy the one you want to use.
 
+## Will you update this repo?
+Yes, surely I will update this repo. There will be more UIs to make use of in the future.
 
-## Flutter Example Apps (Source Code + YouTube Link)
+## Flutter UI Apps (Source Code)
 
+1.  [Sign In & Sign Up UI](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/signin_signup_ui)
 
-1.  [Signin & Signup UI](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/signin_signup_ui) [![watch](assets/yt_logo.png)](https://www.youtube.com/watch?v=e0hwUUOmnUs)
+2.  [Weather Interface UI](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/weather_interface_ui)
 
-2.  [Weather Interface UI](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/weather_interface_ui) [![watch](assets/yt_logo.png)](https://www.youtube.com/watch?v=ZQvr3r3J_W0)
+3.  [Calculator App (IOS Replica)](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/calculator_app)
 
-3.  [Calculator App (IOS Replica)](https://github.com/YazeedAlKhalaf/One_Day_Builds/tree/master/calculator_app) [![watch](assets/yt_logo.png)](https://www.youtube.com/watch?v=seXyW4t69Is)
+4.  [Dashboard UI](https://github.com/YazeedAlKhalaf/Flutter_UI/tree/master/dashboard_ui)
+
+## Want to contribute?
+Make a new pull request!
+
+## License
+This is licensed under MIT License
 
 
 
