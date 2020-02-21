@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/YazeedAlKhalaf/Flutter_UI?label=LICENSE)
 
+### If you :heart: the repo then :star: it.
+
 ![Image](assets/fe.png)
 
 # Flutter Examples
@@ -28,7 +30,7 @@ Yes, surely I will update this repo. There will be more apps to make use of in t
 Make a new pull request!
 
 ## License
-This is licensed under MIT License
+This project is licensed under MIT License
 
 
 
